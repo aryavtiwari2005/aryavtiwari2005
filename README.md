@@ -24,13 +24,13 @@
 
 
 ## 🛠️ **What do I know in Programming:**
-![Typescript](https://img.shields.io/badge/typescript%20-%230db7ed.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=c#&logoColor=%23F7DF1E)
 ![Unity](https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=%23F7DF1E)
 ![Blender](https://img.shields.io/badge/Blender%20-%23323330.svg?&style=for-the-badge&logo=Blender&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/typescript%20-%230db7ed.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/bash%20-%23323330.svg?&style=for-the-badge&logo=bash&logoColor=%23F7DF1E)
 ![Heorku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
