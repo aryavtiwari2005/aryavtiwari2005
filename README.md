@@ -6,7 +6,6 @@
  
 [![Twitter](https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aryavtiwari2005/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryavtiwari2005@gmail.com)
-<!-- [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hraj2661999) -->
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsCP8FkGhJJIUKuIHZa_HNg)
 
 </p>
