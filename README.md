@@ -1,4 +1,4 @@
-# Hello folks, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aryav! 🧑‍💻
+# Hello folks, I'm Aryav! 🧑‍💻
 
 ## 📫 **Contact me here:** 
 
