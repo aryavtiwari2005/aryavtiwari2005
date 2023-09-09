@@ -15,7 +15,7 @@
  
  ## 😎 **About Me:**
 - 😄 I’m a young developer with a keen interest in Programming
-- 🎓 Currently in Studying in School
+- 🎓 Currently in Studying in Vellore Institute of Technology
 - 💬 Let's talk about Software Architecture, Web Dev, Game Dev, App Dev and OS dev.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - 🤩 I'm open to Android Development, Backend Development, Game Development, 3d Modelling, OS Development roles.
